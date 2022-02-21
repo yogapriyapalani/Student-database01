@@ -1,0 +1,11 @@
+{
+  "name": "unittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "student './specs/**/*.spec,js'"
+  },
+  "author": "",
+  "license": "ISC"
+}
